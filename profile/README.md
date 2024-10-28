@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Anomaly-Architects" target="_blank" rel="noreferrer"><img src="../assets/AnomalyBannerS3.png" alt="my banner"></a>
+  <a href="https://github.com/Anomaly-Architects" target="_blank" rel="noreferrer"><img src="https://github.com/Anomaly-Architects/.github/blob/main/assets/AnomalyBannerS3.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
