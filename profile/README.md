@@ -3,13 +3,13 @@
 </p>
 
 <h3 align="center">
-🤖 Anomaly Architects - FRC Takımı #10042
+🐉 Spirit Dynamics - FRC Takımı #10042
 </h3>
 
 <hr>
 
 <h4 align="center">
-Biz, Anomaly Architects olarak yaratıcılık, hassasiyet ve takım çalışmasıyla yönlendirilen yenilikçi ve hırslı bir FRC (FIRST Robotics Competition) takımıyız. Takımımız, teknolojinin ve mühendisliğin sınırlarını zorlayan, son teknoloji robotlar tasarlamaya ve inşa etmeye adanmıştır. Her sezon, robotik, yazılım geliştirme ve mekanik tasarım alanlarındaki becerilerimizi geliştirmeye ve genişletmeye çalışıyoruz.
+Biz, Spirit Dynamics olarak yaratıcılık, hassasiyet ve takım çalışmasıyla yönlendirilen yenilikçi ve hırslı bir FRC (FIRST Robotics Competition) takımıyız. Takımımız, teknolojinin ve mühendisliğin sınırlarını zorlayan, son teknoloji robotlar tasarlamaya ve inşa etmeye adanmıştır. Her sezon, robotik, yazılım geliştirme ve mekanik tasarım alanlarındaki becerilerimizi geliştirmeye ve genişletmeye çalışıyoruz.
 </h4>
 
 <h4 align="center">
