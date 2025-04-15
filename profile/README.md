@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Anomaly-Architects" target="_blank" rel="noreferrer"><img src="https://github.com/Anomaly-Architects/.github/blob/main/assets/AnomalyNewCbanner2.png" alt="my banner"></a>
+  <a href="https://github.com/Anomaly-Architects" target="_blank" rel="noreferrer"><img src="https://github.com/Anomaly-Architects/.github/blob/main/assets/1744473884346.jpg" alt="Spirit Dynamics Banner"></a>
 </p>
 
 <h3 align="center">
