@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Spirit Dynamics - FRC Takımı #10042
+FRC Team 10042 | Spirit Dynamics
 </h3>
 
 <hr>
