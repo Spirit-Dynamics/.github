@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Spirit-Dynamics" target="_blank" rel="noreferrer"><img src="https://github.com/Spirit-Dynamics/.github/blob/main/assets/papaya10042bannerB.png" alt="Spirit Dynamics Banner"></a>
+  <a href="https://github.com/Spirit-Dynamics" target="_blank" rel="noreferrer"><img src="https://github.com/Spirit-Dynamics/.github/blob/main/assets/SP27MrBanner.png" alt="Spirit Dynamics Banner"></a>
 </p>
 
 <h3 align="center">
