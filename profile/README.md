@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-FRC Team 10042 | Spirit Dynamics
+Spirit Dynamics
 </h3>
 
 <hr>
